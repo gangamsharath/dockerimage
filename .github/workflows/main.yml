@@ -8,8 +8,8 @@ on:
       - master
 
 jobs:
-build:
-runs-on: ubuntu-latest
+  push:
+    runs-on: ubuntu-latest
 
 
 steps:
